@@ -1,6 +1,11 @@
 body {
     background: #091930;
     color: #DFDFDF;
+    font-family: 'Poppins' !important;
+}
+
+.container {
+    width: 90%;
 }
 
 .jumbotron {
@@ -22,8 +27,4 @@ body {
 
 .jumbotron p {
     color: white;
-}
-
-section .row h2 {
-    text-align: center;
 }
